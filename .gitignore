@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data files (optional - remove if you want to track data)
+data/*.csv
+data/*.txt
+!data/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+

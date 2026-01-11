@@ -1,0 +1,5 @@
+notification = A record of an official change or event in the company registry.
+
+Pagination = “Splitting results into pages”. 
+            When you want all notifications, you must request every page sequentially.
+
